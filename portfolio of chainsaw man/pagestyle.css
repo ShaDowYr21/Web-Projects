@@ -1,0 +1,40 @@
+#intro{	
+			color:#EDEEEE;			
+			font-size:19px;
+		
+}
+#bgimg{
+			background-attachment: fixed;
+			background-size: cover;
+			background-repeat: no-repeat;
+}
+#name{
+			margin: 5%;
+			color: #E21717;
+}
+.logo{
+			height:30px;
+			width:30px;
+}
+#plot{
+			color:#E21717;
+			margin:10%;
+}
+.paragraf{
+			font-size:30px;
+			color:#EDEEEE;
+}
+#fimg{
+			height:400px;
+			width:550px;
+}
+#simg{
+			height:400px;
+			width:600px;
+}
+#line{
+			color:#FF0000;
+}
+.btext{
+			color: #FFFFFF;
+}
